@@ -1,0 +1,14 @@
+{
+  "latest": "2026-04-13",
+  "daily": {
+    "monday": "2026-04-13"
+  },
+  "history": [
+    {
+      "date": "2026-04-13",
+      "backingInLuna": 172.106449,
+      "ampLunaPerNft": 83.307456,
+      "ampLunaRate": 2.065919
+    }
+  ]
+}
