@@ -1,5 +1,5 @@
 {
-  "latest": "2026-05-14",
+  "latest": "2026-05-15",
   "daily": {
     "monday": "2026-04-13"
   },
@@ -195,6 +195,12 @@
       "backingInLuna": 182.17089,
       "ampLunaPerNft": 86.119604,
       "ampLunaRate": 2.115324
+    },
+    {
+      "date": "2026-05-15",
+      "backingInLuna": 182.473098,
+      "ampLunaPerNft": 86.210575,
+      "ampLunaRate": 2.116598
     }
   ]
 }
