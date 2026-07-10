@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "cron": "backing",
-  "capturedAt": "2026-07-09T23:50:24.334Z",
-  "capturedAtUnix": 1783641024334,
+  "capturedAt": "2026-07-10T23:50:23.789Z",
+  "capturedAtUnix": 1783727423789,
   "status": "ok",
-  "next_expected_run_at": "2026-07-11T00:50:24.334Z",
+  "next_expected_run_at": "2026-07-12T00:50:23.789Z",
   "stats": {
-    "backing_luna_per_nft": 201.180924,
-    "latest_date": "2026-07-09"
+    "backing_luna_per_nft": 201.577112,
+    "latest_date": "2026-07-10"
   }
 }
